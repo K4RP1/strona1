@@ -1,0 +1,25 @@
+.obrazekbox {
+    border: 2px solid;
+    border-color: black;
+}
+
+.twoboxes {
+    width: 100%;
+    display: flex;
+ 
+}
+
+.boxleft {
+    width: 40%;
+    border: 2px solid;
+}
+
+.boxright {
+    width: 60%;
+    border: 2px solid;
+}
+
+.linki {
+    display:flex;
+    flex-direction: column;
+}
